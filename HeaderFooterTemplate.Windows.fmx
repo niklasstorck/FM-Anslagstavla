@@ -1,0 +1,3 @@
+inherited HeaderFooterForm_Windows: THeaderFooterForm_Windows
+  DesignerMasterStyle = 0
+end

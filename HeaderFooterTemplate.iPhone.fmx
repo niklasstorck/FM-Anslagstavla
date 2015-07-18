@@ -1,0 +1,18 @@
+inherited HeaderFooterForm_iPhone: THeaderFooterForm_iPhone
+  ClientHeight = 460
+  ClientWidth = 320
+  DesignerMasterStyle = 0
+  inherited Header: TToolBar
+    Size.Width = 320.000000000000000000
+    inherited HeaderLabel: TLabel
+      Size.Width = 320.000000000000000000
+    end
+  end
+  inherited Footer: TToolBar
+    Position.Y = 416.000000000000000000
+    Size.Width = 320.000000000000000000
+  end
+  inherited TMSFMXButton1: TTMSFMXButton
+    Position.X = 200.000000000000000000
+  end
+end

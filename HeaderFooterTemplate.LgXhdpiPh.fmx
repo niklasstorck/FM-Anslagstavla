@@ -1,0 +1,22 @@
+inherited HeaderFooterForm_LgXhdpiPh: THeaderFooterForm_LgXhdpiPh
+  ClientHeight = 425
+  ClientWidth = 720
+  DesignerMasterStyle = 0
+  inherited Header: TToolBar
+    Size.Width = 720.000000000000000000
+    Size.Height = 48.000000000000000000
+    inherited HeaderLabel: TLabel
+      Size.Width = 720.000000000000000000
+      Size.Height = 48.000000000000000000
+    end
+  end
+  inherited Footer: TToolBar
+    Position.Y = 377.000000000000000000
+    Size.Width = 720.000000000000000000
+    Size.Height = 48.000000000000000000
+  end
+  inherited TMSFMXButton1: TTMSFMXButton
+    Position.X = 552.000000000000000000
+    Position.Y = 336.000000000000000000
+  end
+end

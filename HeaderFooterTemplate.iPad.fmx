@@ -1,0 +1,15 @@
+inherited HeaderFooterForm_iPad: THeaderFooterForm_iPad
+  ClientHeight = 1004
+  ClientWidth = 768
+  DesignerMasterStyle = 0
+  inherited Header: TToolBar
+    Size.Width = 768.000000000000000000
+    inherited HeaderLabel: TLabel
+      Size.Width = 768.000000000000000000
+    end
+  end
+  inherited Footer: TToolBar
+    Position.Y = 960.000000000000000000
+    Size.Width = 768.000000000000000000
+  end
+end

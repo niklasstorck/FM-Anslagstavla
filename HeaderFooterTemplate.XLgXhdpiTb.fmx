@@ -1,0 +1,15 @@
+inherited HeaderFooterForm_XLgXhdpiTb: THeaderFooterForm_XLgXhdpiTb
+  ClientHeight = 1255
+  ClientWidth = 800
+  DesignerMasterStyle = 0
+  inherited Header: TToolBar
+    Size.Width = 800.000000000000000000
+    inherited HeaderLabel: TLabel
+      Size.Width = 800.000000000000000000
+    end
+  end
+  inherited Footer: TToolBar
+    Position.Y = 1211.000000000000000000
+    Size.Width = 800.000000000000000000
+  end
+end

@@ -1,0 +1,3 @@
+inherited HeaderFooterForm_Macintosh: THeaderFooterForm_Macintosh
+  DesignerMasterStyle = 0
+end
